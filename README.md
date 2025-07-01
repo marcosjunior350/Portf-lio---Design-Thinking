@@ -1,4 +1,4 @@
-Basicamente, esse é um portfólio completo que mostra as etapas do Design Thinking para resolver alguns problemas de um aplicativo de E-commerce. Abaixo, segue os links do protótipo e também do vídeo de apresentação:
+Basicamente, esse é um portfólio completo que mostra as etapas do Design Thinking para resolver alguns problemas de um aplicativo de E-commerce. Abaixo, seguem os links do protótipo e também do vídeo de apresentação:
 
 🔵 Vídeo de apresentação do projeto - https://youtu.be/5JsNFNj0EQM
 
